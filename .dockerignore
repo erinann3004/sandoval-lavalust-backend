@@ -1,0 +1,10 @@
+.env
+.env.*
+*.crt
+*.pem
+!certs/ca.pem
+.git
+.gitignore
+runtime/session/*
+runtime/cache/*
+Dockerfile
